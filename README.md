@@ -1,24 +1,13 @@
-# README
+# FINES
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
 
-Things you may want to cover:
+This app was created to record the fines, to incentivise good behaviour.
 
-* Ruby version
+## How to start the app
 
-* System dependencies
+From inside the project folder:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+$ rails s
+```
